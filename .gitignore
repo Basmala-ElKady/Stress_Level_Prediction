@@ -1,0 +1,5 @@
+
+# Ignore data and model files
+data/
+models/
+tests_model.py
