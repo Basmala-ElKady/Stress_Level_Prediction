@@ -5,4 +5,5 @@ test_model.py
 
 data/
 models/
-app/_pycache_/
+
+*.pyc
