@@ -2,4 +2,5 @@
 # Ignore data and model files
 data/
 models/
-tests_model.py
+test_model.py
+app/_pycache_/
